@@ -1,0 +1,26 @@
+body{
+	background-image: url('https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	font-family: "Roboto Mono", monospace;	
+}
+
+
+.quadro-principal {
+	width: 600px;
+	height: 300px;
+	background: hsl(0, 100%, 100%, 0.9);
+	color: black;
+	margin: 150px auto;
+	padding: 10px 10px;
+	
+}
+
+#nome,
+#idade,
+#linguagem,
+#gosta-ou-nao{
+	font-style: italic;
+}
